@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Intel Core i7-12700K",
+    "id": "i12700k",
+    "cores": 12,
+    "threads": 20,
+    "baseFreq": 3.6,
+    "boostFreq": 5,
+    "maxPower": 190,
+    "series": "Intel Core i7",
+    "microarch": "Alder Lake",
+    "family": "Alder Lake",
+    "sockets": ["LGA1700"],
+    "igpu": "Intel UHD Graphics 770",
+    "maxmem": 128,
+    "memtypes": [
+      ["DDR5", 4800],
+      ["DDR4", 3200]
+    ],
+    "pcielanes": 20,
+    "pciever": "5.0"
+  }
+]
